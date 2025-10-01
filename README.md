@@ -15,32 +15,26 @@
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E74C3C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1ABC9C?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=graph&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F39C12?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3498DB?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8E44AD?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Mathematics](https://img.shields.io/badge/Mathematics-F4D03F?style=for-the-badge&logo=wolfram&logoColor=white)
+
 
 ---
 
-## 🔥 Contribution & LeetCode Heatmaps
+## 🔥 Activity Heatmaps  
 
-<!-- GitHub contribution heatmap (replace YOUR_USERNAME) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Axy2003&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
+### 📈 GitHub Contributions
+![Sweety's GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Axy2003&theme=react-dark&area=true&hide_border=true)
 
-<!-- LeetCode heatmap card (replace YOUR_USERNAME) -->
-<p align="center">
-  <img src="https://leetcode-card.vercel.app/api?username=AxyJha" alt="LeetCode Stats" />
-</p>
 
----
 
-## ⚡ Tech stack — animated (self-hosted SVG)
-
-<p align="center">
-  <img src="./assets/tech-stack.svg" alt="Animated tech stack" />
-</p>
+### 🧩 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/AxyJha?theme=dark&font=Baloo%202&ext=heatmap)
 
 ---
 
@@ -51,4 +45,6 @@
 
 ---
 
-💡 *“Code is like lifting: progressive overload makes you stronger.”*  
+<p align="center">
+  💡 <em>“Code is like lifting: progressive overload makes you stronger.”</em>
+</p>
