@@ -94,12 +94,18 @@
 ## 🔥 Activity Heatmaps  
 
 ### 📈 GitHub Contributions
-![Sweety's GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Axy2003&theme=react-dark&area=true&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axy2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="49%" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Axy2003&layout=compact&theme=dracula" width="49%" height="200" alt="languages graph" />
+</div>
 
 
 
 ### 🧩 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/AxyJha?theme=dark&font=Baloo%202&ext=heatmap)
+<!---![LeetCode Stats](https://leetcard.jacoblin.cool/AxyJha?theme=dark&font=Baloo%202&ext=heatmap)--->
+<p align = "center">
+  <img src="https://leetcard.jacoblin.cool/AxyJha?theme=dark&font=Baloo%202&ext=heatmap" width="69%" alt="stats graph" />
+</p>
 
 ---
 
