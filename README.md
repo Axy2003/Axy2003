@@ -76,19 +76,6 @@
   </a>
 </p>
 
-<style>
-  p img {
-    margin: 10px;
-    transition: transform 0.3s ease, filter 0.3s ease;
-    filter: grayscale(30%);
-  }
-  p img:hover {
-    transform: scale(1.2);
-    filter: grayscale(0%);
-  }
-</style>
-
-
 ---
 
 ## 🔥 Activity Heatmaps  
